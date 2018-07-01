@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chaitanya Varma | Personal Website"
+title                    : "Chaitanya Varma | My Personal Website"
 title_separator          : "-"
 name                     : &name "Chaitanya Varma"
 description              : &description "Who am I ?"
