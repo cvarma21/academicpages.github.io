@@ -18,14 +18,14 @@ Research and Work experience
 ======
 
 * Summer 2018: Summer Research Intern, IIT Kharagpur
-*Research Area : Artificial Intelligence, Formal Methods and Verification
+  * Research Area : Artificial Intelligence, Formal Methods and Verification
 
   * Worked on a rule based system for a health care application under the guidance of Professor and Head of Computer and Informatics Center, IIT Kharagpur, Prof. Jayanta Mukhopadhyay under the summer fellowship program sponsored by Microsoft Research India.
   * Designed and implemented the various functionalities of the rule based system : add/delete: parameters, conditions, clauses, predicates, rules for the rule-based system.
   * Integrated the state of the art Microsoft Z3 theorem prover with the rule-based system to check for the consistency of rules in the system using the SMT-LIB 2.0 Standard.
 
 * Summer 2017: Summer Research Intern, IIT Bombay
-*Research Area : Machine Learning
+  * Research Area : Machine Learning
 
   * Worked under the guidance of Full Professor and Head of CFDVS, Prof. G. Sivakumar of the Computer Science Department at the Centre for Formal Design and Verification of Software(CFDVS), IIT Bombay on a project titled Simulations for Logic.
   * Project involved building a interactive teaching tool for learning and exploring Binary Decision Diagrams (BDDs) using any web browser as client. The application could also adjust variable ordering of the BDD as per the requirement
