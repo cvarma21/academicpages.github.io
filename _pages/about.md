@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Chaitanya Varma. I am a final year undergraduate student at Manipal Institute of Technology, Manipal majoring in Computer Science and Engineering with a minor in Intelligent Systems. My research interests lie in the intersection of artificial intelligence and computer vision. 
+Hello, I'm Chaitanya Varma. I am a final year undergraduate student at Manipal Institute of Technology, Manipal majoring in Computer Science and Engineering with a minor in Intelligent Systems. My research interests lie at the intersection of artificial intelligence and computer vision. 
 
 I am a highly motivated student who is interested in continuous lifelong learning. I am passionate about applying AI solutions to help improve people’s lives on a large scale. I’m particularly interested in the application of AI to healthcare.
 
