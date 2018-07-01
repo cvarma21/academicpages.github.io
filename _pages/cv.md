@@ -14,7 +14,7 @@ Education
 * B.Tech. in Computer Science and Engineering, Manipal Institute of Technology, 2019 (expected)
 
 
-Research and Work experience
+Research and Work Experience
 ======
 
 * Summer 2018: Summer Research Intern, IIT Kharagpur
