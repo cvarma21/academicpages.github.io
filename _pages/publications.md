@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-Publications
+
 ======
 
 [1] Sawant, O & Varma, C (2018, August 17-18) **’A Robust Approach for Face Detection and Recognition’** - 6th International Conference on Innovations in Computer Science & Engineering. Hyderabad, India : Springer (Accepted)
