@@ -8,7 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-Research and Work Experience
 ======
 
 * **Summer 2018: Summer Research Intern, IIT Kharagpur**
