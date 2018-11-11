@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Certifications"
+permalink: /cert/
+author_profile: true
+
+---
+
+{% include base_path %}
+
 Certifications
 ======
 
