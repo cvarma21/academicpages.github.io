@@ -1,15 +1,21 @@
 # main links links
 main:
- - title: "Research & Work Experience"
-    url: /research/
-    
   - title: "Publications"
     url: /publications/
+
+  - title: "Research"
+    url: /research/    
+
+  - title: "Certifications"
+    url: /cert/    
     
   - title: "Projects"
     url: /projects/
-    
- - title: "Extra"
+        
+  - title: "Miscellaneous"
     url: /misc/
     
- 
+  - title: "CV"
+    url: /cv/
+    
+  
