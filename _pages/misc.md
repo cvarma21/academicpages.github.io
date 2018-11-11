@@ -20,7 +20,7 @@ Skills
 Positions of Resposnsibility
 ======
 
-* **Class Reprsentative, MIT Manipal**
+* **Class Representative, MIT Manipal**
   * Elected as the Class Representative for Semesters 3 and 4 in Manipal Institute of Technology, Manipal.
   
 Test Scores 
