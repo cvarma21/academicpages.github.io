@@ -1,10 +1,7 @@
 # main links links
 main:
-  
-    
-  - title: "Research & Work Experience"
+ - title: "Research & Work Experience"
     url: /research/
-    
     
   - title: "Publications"
     url: /publications/
