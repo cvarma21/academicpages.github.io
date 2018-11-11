@@ -8,7 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-Academic Projects - 
 ======
 
 * **An Alternative Approach to Detect Breast Cancer Using Digital Image Processing -**
